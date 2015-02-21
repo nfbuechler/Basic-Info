@@ -1,3 +1,5 @@
 http://alvinalexander.com/git/git-cheat-sheet-git-reference-commands
 
 if you make a .gitignore file after things are already tracked, you need to use git rm -r --cached to untrack them
+
+http://git-scm.com/book/ch2-2.html
